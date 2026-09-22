@@ -40,7 +40,8 @@ Switch to drawing mode from design mode
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/21ed9850-c59c-486b-b101-0bf065ba4e7d" />
 
 
-<img width="1600" height="900" alt="53541542-c08f-4b1a-8f8b-a66e94fe39dd" src="https://github.com/user-attachments/assets/b2a707c7-1885-43a4-99c0-c45825a9dc22" />
+<img width="1600" height="900" alt="ed5eb90d-dfad-44f7-bd50-7760bae6b671" src="https://github.com/user-attachments/assets/4996160b-f506-409b-8a64-662bc3c38b32" />
+
 
 
 
